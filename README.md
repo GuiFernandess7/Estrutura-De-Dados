@@ -1,2 +1,2 @@
 # Estrutura-De-Dados
-Notebook que reúne as principais estruturas de dados em python e implementação de estruturas mais complexas.
+Este repositório reúne Jupyter as principais estruturas de dados como Listas, Tuplas e Dicionários e estruturas mais complexas como as árvores hierárquicas (MaxHeap) e listas encadeadas (LinkedLists).
